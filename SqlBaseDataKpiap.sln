@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlBaseDataKpiap", "SqlBaseDataKpiap\SqlBaseDataKpiap.csproj", "{236D28F0-002E-4D06-95CD-0FACE70DFD27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236D28F0-002E-4D06-95CD-0FACE70DFD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236D28F0-002E-4D06-95CD-0FACE70DFD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236D28F0-002E-4D06-95CD-0FACE70DFD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236D28F0-002E-4D06-95CD-0FACE70DFD27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D4FF4E4-6503-4525-9611-C5C46FBDB894}
+	EndGlobalSection
+EndGlobal
